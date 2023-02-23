@@ -24,11 +24,11 @@ class EGAVLinks:
     """
 
     EGAV_SETUP_ZIP_WIN_LINK = 'https://drive.google.com/uc?export=download&id=1mKnz9lD6ncDPBlfn55bH4b_JOap3tcxW&confirm=t'
-    EGAV_SETUP_ZIP_LIN_LINK = 'https://drive.google.com/uc?export=download&id=1cwS8QEaSilnngSUI8VUFwqxhENMRJ4h2&confirm=t'
+    EGAV_SETUP_ZIP_LIN_LINK = 'https://drive.google.com/uc?export=download&id=1GJfS-0msSsPhWPW1nF6fdR5A9XnJbwB0&confirm=t'
     EGAV_SETUP_ZIP_MAC_LINK = ""
 
     EGAV_UPDATE_ZIP_WIN_LINK = 'https://drive.google.com/uc?export=download&id=1ITXST_4zfx6iq38b0xF-5iwiXaO4LeXl&confirm=t'
-    EGAV_UPDATE_ZIP_LIN_LINK = 'https://drive.google.com/uc?export=download&id=1hOl_z2S2YI2OTy2sJMnlngsxaUGq3cHb&confirm=t'
+    EGAV_UPDATE_ZIP_LIN_LINK = 'https://drive.google.com/uc?export=download&id=1tyQOeM0czYscCn8Xq5L3C47p6IZIdr9K&confirm=t'
     EGAV_UPDATE_ZIP_MAC_LINK = ""
 
     EGAV_VERSION_LINK = 'https://drive.google.com/uc?export=download&id=1VG64hCQunfJJpRXy-zI065ap53SaCxRi'
